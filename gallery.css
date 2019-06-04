@@ -1,0 +1,15 @@
+.gallery {
+  display: flex;
+  justify-content: center;
+}
+button {
+  border: none;
+  outline: none;
+  padding: 0 1em;
+  background: #fff;
+  color: #999;
+  font-weight: bold;
+}
+button:hover {
+  background: #eee;
+}
